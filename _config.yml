@@ -1,7 +1,7 @@
 # Site
 title:              action{snacks};
-bio:                'Landing page for action{snacks};'
-description:        "action{snacks}; is a collection of content created and curated by Spence."
+bio:                'CONTENT COMING SOON'
+description:        "A landing page for content created/curated by Spence."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -37,7 +37,7 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              'actionsnacks@protonmail.com' 
 twitter:            dinosaurtaco
 #facebook:          username
 #github-url:        sidewalkends
@@ -50,7 +50,7 @@ lastfm:             skakagrall
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              sidewalkends
+#steam:             sidewalkends
 #dribbble:          username
 #youtube:           username
 youtube-channel:    actionsnacks
