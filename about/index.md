@@ -7,10 +7,10 @@ comments: false
 ---
     
 <center><p>Corporate Operations Engineer living in Brooklyn and working on Linux Support/Accessibily things for a large tech company in Manhattan, New York. 
-</ br>He is a huge fan of learning, language, exploring, books, running, podcasts, cozy spaces, thomassons, ecofeminism, travel, horology, neuroscience, playing music, board games, friends, burritos, and baked goods.</p>
+<br>Big fan of learning, language, exploring, books, running, podcasts, cozy spaces, thomassons, ecofeminism, travel, horology, neuroscience, playing music, board games, friends, burritos, and baked goods.</p>
 
 <p>He is still quite fascinated by dinosaurs, nature, and space.
-</ br>Oh, also, he collects fortune cookie fortunes.</p></center>
+<br>Oh, also, he collects fortune cookie fortunes.</p></center>
 
 ## Features
 * Minimal, you can focus on your content
