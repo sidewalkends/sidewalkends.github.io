@@ -6,12 +6,12 @@ date: 2018-12-22
 comments: false
 ---
     
-<center><p>Corporate Operations Engineer living in Brooklyn and working on Linux Support/Accessibily things for a large tech company in Manhattan, New York.</p> 
+<center><p>Corporate Operations Engineer living in Brooklyn, working on Linux Accessibily, Support Tooling, and Training for a large tech company in Manhattan, New York.</p> 
 
-<p>Big fan of learning, language, exploring, books, running, podcasts, cozy spaces, thomassons, ecofeminism, travel, horology, neuroscience, playing music, board games, friends, burritos, and baked goods.</p>
+<p>Big fan of adventure, language, books, records, running, podcasts, cozy spaces, thomassons, ecofeminism, travel, horology, neuroscience, playing music, board games, friends, burritos, and baked goods.</p>
 
-<p>He is still quite fascinated by dinosaurs, nature, and space.
-<br>Oh, also, he collects fortune cookie fortunes.</p></center>
+<p>Still quite fascinated by dinosaurs, nature, and space.
+<br>Oh, also, collects fortune cookie fortunes.</p></center>
 
 ## Getting Started
 
