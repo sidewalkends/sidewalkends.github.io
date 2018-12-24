@@ -5,7 +5,13 @@ tags: [actionsnacks]
 date: 2018-12-22
 comments: false
 ---
-    
+
+<center>
+    <figure class="half">
+        <a href="/assets/img/about-me.jpg"><img src="/assets/img/about-me.jpg"></a>
+    </figure>
+</center>
+
 <center><p>Corporate Operations Engineer living in Brooklyn, working on Linux Accessibily, Support Tooling, and Training for a large tech company in Manhattan, New York.</p> 
 
 <p>Big fan of adventure, language, books, records, running, podcasts, cozy spaces, thomassons, ecofeminism, travel, horology, neuroscience, playing music, board games, friends, burritos, and baked goods.</p>
