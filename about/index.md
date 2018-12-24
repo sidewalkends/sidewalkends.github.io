@@ -6,11 +6,9 @@ date: 2018-12-22
 comments: false
 ---
 
-<center>
-    <figure class="half">
-        <a href="/assets/img/about-me.jpg"><img src="/assets/img/about-me.jpg"></a>
-    </figure>
-</center>
+<figure>
+    <center><a href="/assets/img/about-me.jpg"><img src="/assets/img/about-me.jpg"></a></center>
+</figure>
 
 <center><p>Corporate Operations Engineer living in Brooklyn, working on Linux Accessibily, Support Tooling, and Training for a large tech company in Manhattan, New York.</p> 
 
