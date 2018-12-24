@@ -37,10 +37,10 @@ disqus_shortname:   actionsnacks
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:             'actionsnacks@protonmail.com' 
+email:              'actionsnaction@gmail.com' 
 twitter:            dinosaurtaco
 #facebook:          username
-#github-url:        sidewalkends
+github-url:         sidewalkends
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          spencerobert
 #xing:              username
@@ -52,8 +52,8 @@ lastfm:             skakagrall
 #foursquare:        username
 #steam:             sidewalkends
 #dribbble:          username
-#youtube:           username
-#youtube-channel:   actionsnacks
+#youtube:           sidewalkends
+youtube-channel:    actionsnacks
 soundcloud:         tenocycle
 #weibo:             username
 #flickr:            username
