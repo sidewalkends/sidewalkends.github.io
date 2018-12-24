@@ -12,18 +12,6 @@ comments: false
 <p>He is still quite fascinated by dinosaurs, nature, and space.
 <br>Oh, also, he collects fortune cookie fortunes.</p></center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
-
 ## Preview
 
 {% capture images %}
