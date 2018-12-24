@@ -1,12 +1,15 @@
 ---
 layout: page
-title: ActionSnacks
+title: rob{spence};
 tags: [actionsnacks]
 date: 2018-12-22
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><b>rob{spence};</b> is a Corporate Operations Engineer living in Brooklyn / working in Manhattan, NYC. Lover of learning, language, exploring, books, running, podcasts, cozy spaces, thomassons, ecofeminism, travel, horology, neuroscience, playing music, board games, friends, burritos, and baked goods.
+
+<p>He is still quite amazed by dinosaurs, nature, and space.
+<br>Oh, also, he collects fortune cookie fortunes.</br></p></center>
 
 ## Features
 * Minimal, you can focus on your content
