@@ -6,7 +6,7 @@ date: 2018-12-22
 comments: false
 ---
     
-<center><b>rob{spence};</b> is a Corporate Operations Engineer living in Brooklyn / working in Manhattan, NYC. Lover of learning, language, exploring, books, running, podcasts, cozy spaces, thomassons, ecofeminism, travel, horology, neuroscience, playing music, board games, friends, burritos, and baked goods.
+<center><p><b>rob{spence};</b> is a Corporate Operations Engineer living in Brooklyn / working in Manhattan, NYC. Lover of learning, language, exploring, books, running, podcasts, cozy spaces, thomassons, ecofeminism, travel, horology, neuroscience, playing music, board games, friends, burritos, and baked goods.</p>
 
 <p>He is still quite amazed by dinosaurs, nature, and space.
 <br>Oh, also, he collects fortune cookie fortunes.</br></p></center>
