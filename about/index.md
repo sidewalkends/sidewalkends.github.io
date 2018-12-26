@@ -14,5 +14,5 @@ comments: false
 
 <p>Big fan of adventure, language, books, records, running, podcasts, cozy spaces, thomassons, ecofeminism, travel, horology, neuroscience, playing music, board games, friends, burritos, and baked goods.</p>
 
-<p>Still quite fascinated by dinosaurs, nature, and space.
+<p>ENFJ-T. Still quite fascinated by dinosaurs, nature, and space.
 <br>Oh, also, collects fortune cookie fortunes.</p></center>
