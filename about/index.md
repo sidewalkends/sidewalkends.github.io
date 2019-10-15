@@ -14,5 +14,5 @@ comments: false
 
 <p>Fan of adventure, language, books, records, stationary, running, podcasts, cozy spaces, thomassons, travel, horology, neuroscience, playing music, board games, burritos, and baked goods.</p>
 
-<p>ENFJ-T. Still quite fascinated by dinosaurs, nature, and space.
+<p>ENFJ-T. Pisces. Still quite fascinated by dinosaurs, nature, and space.
 <br>Decade-long collector of fortune cookie fortunes.</p></center>
