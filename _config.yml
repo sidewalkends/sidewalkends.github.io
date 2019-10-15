@@ -1,7 +1,7 @@
 # Site
 title:              action{snacks};
-bio:                '~ MORE CONTENT COMING SOON ~'
-description:        "Landing page for content created/curated by rob{spence};."
+bio:                '~ Content Created/Curated by rob{spence};~'
+description:        "Content created/curated by rob{spence};."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
