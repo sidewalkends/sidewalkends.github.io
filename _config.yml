@@ -40,14 +40,14 @@ disqus_shortname:   actionsnacks
 email:             'rob@actionsnacks.net' 
 twitter:            actionsnaction
 facebook:           robspencesayshi
-github-url:         sidewalkends
+#github-url:         sidewalkends
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           spencerobert
 #xing:              username
 instagram:          actionsnacks
-#lastfm:             skakagrall
+lastfm:             skakagrall
 #tumblr:            username
-#medium:            '@username'
+#medium:            '@actionsnacks'
 #pinterest:         username
 #foursquare:        username
 #steam:             sidewalkends
