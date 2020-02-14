@@ -10,7 +10,7 @@ comments: false
     <center><a href="/assets/img/about-me.jpg"><img src="/assets/img/about-me.jpg"></a></center>
 </figure>
 
-<center><p>Writer and Corporate Operations Engineer living in Brooklyn, working on Accessibility and Well-Being for a tech company in Manhattan, New York.</p> 
+<center><p>Born in Florida. Currently based in Brooklyn, New York, where I work as a Corporate Operations Engineer for a large tech company and write sometimes.</p> 
 
 <p>Lover of adventure, language, books, records, stationary, running, podcasts, cozy spaces, thomassons, travel, horology, neuroscience, playing music, board games, burritos, and baked goods.</p>
 
