@@ -12,7 +12,7 @@ comments: false
 
 <center><p>Born in Florida. Currently based in Brooklyn, New York, where I work as a Corporate Operations Engineer for a large tech company and write sometimes.</p> 
 
-<p>Lover of adventure, language, books, records, stationary, running, podcasts, cozy spaces, thomassons, travel, horology, neuroscience, playing music, board games, burritos, and baked goods.</p>
+<p>Lover of adventure, language, books, records, stationery, running, podcasts, cozy spaces, thomassons, travel, horology, neuroscience, playing music, board games, burritos, and baked goods.</p>
 
 <p>ENFJ-T. Pisces. Still quite fascinated by dinosaurs, nature, and space.
 <br>Decade-long collector of fortune cookie fortunes.</p></center>
