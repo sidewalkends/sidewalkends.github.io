@@ -7,7 +7,7 @@ comments: false
 ---
 
 <figure>
-    <center><a href="/assets/img/about-me2.jpg"><img src="/assets/img/about-me2.jpg"></a></center>
+    <center><a href="/assets/img/about-me.jpg"><img src="/assets/img/about-me2.jpg"></a></center>
 </figure>
 
 <center><p>Born in Florida. Currently based in Brooklyn, New York, where I work as a Corporate Operations Engineer for a large tech company and write sometimes.</p> 
