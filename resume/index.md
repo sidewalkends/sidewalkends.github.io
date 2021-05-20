@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rob Spence | Operations Engineer
+title: Rob Spence | Resume
 tags: [actionsnacks]
 date: 2021-05-20
 comments: false
