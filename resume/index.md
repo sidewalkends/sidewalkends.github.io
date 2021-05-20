@@ -44,9 +44,9 @@ Experienced IT Operations Engineer with an over ten-year history in the tech spa
 
 ## Skills
 
-OS: Linux, MacOS, Windows, ChromeOS, iOS, Android/Android-Based
+**OS:** Linux, MacOS, Windows, ChromeOS, iOS, Android/Android-Based
 
-Additional Skills and Experience: Google Apps Suite, Microsoft Office Suite, Open/Libre Office Suite, Bash/Shell Scripting, Python Scripting, Network Support, Active Directory, iLife Suite, Adobe Creative Cloud, Assistive Technologies
+**Additional Skills and Experience:** Google Apps Suite, Microsoft Office Suite, Open/Libre Office Suite, Bash/Shell Scripting, Python Scripting, Network Support, Active Directory, iLife Suite, Adobe Creative Cloud, Assistive Technologies
 
 ## Education
 
