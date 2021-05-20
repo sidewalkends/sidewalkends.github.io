@@ -7,7 +7,7 @@ comments: false
 ---
 
 <figure>
-    <center><a href="/assets/img/about-me3.jpg"><img src="/assets/img/about-me.jpg"></a></center>
+    <center><a href="/assets/img/about-me3.jpg"><img src="/assets/img/about-me3.jpg"></a></center>
 </figure>
 
 <center><p>Spence is currently based in Gainesville, FL, where he works remotely as an Operations Engineer for a large tech company and writes sometimes.</p> 
