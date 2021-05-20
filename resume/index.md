@@ -50,11 +50,11 @@ Additional Skills and Experience: Google Apps Suite, Microsoft Office Suite, Ope
 
 ## Education
 
-#### <span>University of Florida</span> <span>(2012 - 2013)</span>
+#### <span>Santa Fe College</span> <span>(2012 - 2013)</span>
 * Independent Study: SQL, HTML5, C++, Objective-C and iOS App Development
 
 #### <span>University of Florida</span> <span>(2007 - 2010)</span>
 * BA Religions Studies, Minor: Japanese
 
-#### <span>University of Florida</span> <span>(2004 - 2007)</span>
+#### <span>Broward College</span> <span>(2004 - 2007)</span>
 * AA General Studies & Humanities
