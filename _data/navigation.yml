@@ -1,6 +1,8 @@
 # Site navigation links
 
+- title: Blog
+  url: https://blog.actionsnacks.net
+- title: Resume
+  url: /resume/
 - title: Podcast
   url: https://anchor.fm/therewillbesnacks
-- title: Blog
-  url: http://blog.actionsnacks.net
