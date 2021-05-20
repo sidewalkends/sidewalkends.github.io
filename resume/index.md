@@ -42,7 +42,7 @@ Experienced IT Operations Engineer with an over ten-year history in the tech spa
 * Assisted with college-wide migration from Windows XP to Windows 7.
 
 
-## Experience
+## Skills
 
 OS: Linux, MacOS, Windows, ChromeOS, iOS, Android/Android-Based
 
