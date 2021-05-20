@@ -6,7 +6,6 @@ date: 2021-05-20
 comments: false
 ---
 
-# Rob Spence
 Experienced IT Operations Engineer with an over ten-year history in the tech space. Expansive background in Linux, Accessibility, Remote Solutions, Program Management, Customer Support/Experience, Training Creation/Facilitation, and Mentorship. 
 
 * Gainesville, FL
