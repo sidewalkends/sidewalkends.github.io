@@ -18,7 +18,7 @@ Experienced IT Operations Engineer with an over ten-year history in the tech spa
 * Support Team subject matter expert and global escalation point for Linux and Accessibility-related issues.
 * Created and maintained globally utilized tools.
 * Created and maintained globally utilized training and documentation.
-* Developed and Deployed Linux Support and Accessibility improvements.
+* Developed and deployed Linux Support and Accessibility improvements.
 * Advocated for Accessibility documentation, training, and tooling improvements within Google’s internal support space.
 * Developed and led multiple internal Linux platform and Linux Professional Institute Certification training.
 * Led the formation of a support escalation and advocacy team for Accessibility. 
