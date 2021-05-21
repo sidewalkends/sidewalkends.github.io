@@ -18,5 +18,6 @@ comments: false
 <br>Decade-long collector of fortune cookie fortunes.</p>
 </center>
 
+<p align="center">
 [Mastadon](https://writing.exchange/@actionsnacks) | [Pixelfed](https://pixelfed.social/actionsnacks) | [Bookwyrm](https://bookwyrm.social/user/actionsnacks)
-
+</p>
