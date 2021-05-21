@@ -15,6 +15,7 @@ comments: false
 <p>He is a lover of adventure, language, books, records, stationery, running, podcasts, cozy spaces, thomassons, travel, horology, neuroscience, playing music, board games, burritos, and baked goods.</p>
 
 <p>ENFJ-T. Pisces. Still quite fascinated by dinosaurs, nature, and space.
-<br>Decade-long collector of fortune cookie fortunes.</p></center>
+<br>Decade-long collector of fortune cookie fortunes.</p>
 
 [Mastadon](https://writing.exchange/@actionsnacks) | [Pixelfed](https://pixelfed.social/actionsnacks) | [Bookwyrm](https://bookwyrm.social/user/actionsnacks)
+</center>
