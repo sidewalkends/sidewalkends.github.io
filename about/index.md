@@ -17,5 +17,5 @@ comments: false
 <p>ENFJ-T. Pisces. Still quite fascinated by dinosaurs, nature, and space.
 <br>Decade-long collector of fortune cookie fortunes.</p>
 
-<p>[Mastadon](https://writing.exchange/@actionsnacks) | [Pixelfed](https://pixelfed.social/actionsnacks) | [Bookwyrm](https://bookwyrm.social/user/actionsnacks)</p>
+[Mastadon](https://writing.exchange/@actionsnacks) | [Pixelfed](https://pixelfed.social/actionsnacks) | [Bookwyrm](https://bookwyrm.social/user/actionsnacks)
 </center>
