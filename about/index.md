@@ -19,11 +19,13 @@ comments: false
 <br>Decade-long collector of fortune cookie fortunes.</p>
 </center>
 
-**Find Him in the Fediverse:**
-* [Mastadon](https://writing.exchange/@actionsnacks)
-* [PixelFed](https://pixelfed.social/actionsnacks)
-* [Lemmy](https://lemmy.ml/u/lastnamefirst)
-* [Snap.as](https://snap.as/actionsnacks)
-* [Bookwyrm](https://bookwyrm.social/user/actionsnacks)
-* [Funkwhale](https://open.audio/@actionsnacks/)
-* [Libre.fm](https://libre.fm/user/actionsnacks)
+<center>
+    <b>Find Him in the Fediverse:</b>
+    <br> <a href="https://writing.exchange/@actionsnacks">Mastadon</a>
+    <br> <a href="https://pixelfed.social/actionsnacks">Pixelfed</a>
+    <br> <a href="https://lemmy.ml/u/lastnamefirst">Lemmy</a>
+    <br> <a href="https://snap.as/actionsnacks">Snap.as</a>
+    <br> <a href="https://bookwyrm.social/user/actionsnacks">Bookwyrm</a>
+    <br> <a href="https://open.audio/@actionsnacks">Funkwhale</a>
+    <br> <a href="https://libre.fm/user/actionsnacks">Libre.fm</a>
+</center>
