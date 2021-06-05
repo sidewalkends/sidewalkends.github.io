@@ -22,5 +22,5 @@ comments: false
     <b>Fediverse Links:</b>
     <br> <a href="https://writing.exchange/@actionsnacks">Mastadon</a>  |  <a href="https://lemmy.ml/u/lastnamefirst">Lemmy</a>  |  <a href="https://pixelfed.social/actionsnacks">Pixelfed</a>
     <br> <a href="https://snap.as/actionsnacks">Snap.as</a>  |  <a href="https://bookwyrm.social/user/actionsnacks">Bookwyrm</a>  |  <a href="https://libre.fm/user/actionsnacks">Libre.fm</a>
-    <br> <a href="https://open.audio/@actionsnacks">Funkwhale</a>
+    <br> <a href="https://tilvids.com/accounts/lastnamefirst">PeerTube</a>  |  <a href="https://open.audio/@actionsnacks">Funkwhale</a>
 </center>
