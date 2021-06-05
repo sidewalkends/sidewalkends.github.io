@@ -20,12 +20,9 @@ comments: false
 </center>
 
 <center>
-    <b>Find Him in the Fediverse:</b>
-    <br> <a href="https://writing.exchange/@actionsnacks">Mastadon</a>
-    <br> <a href="https://pixelfed.social/actionsnacks">Pixelfed</a>
-    <br> <a href="https://lemmy.ml/u/lastnamefirst">Lemmy</a>
-    <br> <a href="https://snap.as/actionsnacks">Snap.as</a>
+    <b>Fediverse Links:</b>
+    <br> <a href="https://writing.exchange/@actionsnacks">Mastadon</a> | <a href="https://lemmy.ml/u/lastnamefirst">Lemmy</a>
+    <br> <a href="https://pixelfed.social/actionsnacks">Pixelfed</a> | <a href="https://snap.as/actionsnacks">Snap.as</a>
+    <br> <a href="https://open.audio/@actionsnacks">Funkwhale</a> | <a href="https://libre.fm/user/actionsnacks">Libre.fm</a>
     <br> <a href="https://bookwyrm.social/user/actionsnacks">Bookwyrm</a>
-    <br> <a href="https://open.audio/@actionsnacks">Funkwhale</a>
-    <br> <a href="https://libre.fm/user/actionsnacks">Libre.fm</a>
 </center>
