@@ -10,9 +10,9 @@ comments: false
     <center><a href="/assets/img/about-me4.jpg"><img src="/assets/img/about-me4.jpg"></a></center>
 </figure>
 
-<center><p>Spence is currently based in Gainesville, FL, where he works remotely as an Operations Engineer for a large tech company and writes sometimes.</p> 
+<center><p>Spence is currently based in Gainesville, FL, where he works remotely as a Support Engineer and writes sometimes.</p> 
 
-<p>He is a lover of adventure, language, books, records, stationery, running, podcasts, cozy spaces, thomassons, travel, horology, neuroscience, playing music, board games, burritos, and baked goods.</p>
+<p>He is a lover of adventure, language, books, records, podcasts, stationery, psychology, horology, cozy spaces, thomassons, travel, playing music, board games, burritos, and baked goods.</p>
 
 <p>ENFJ-T. Pisces. Team Jess. Still quite fascinated by dinosaurs, nature, and space.
 <br>Decade-long collector of fortune cookie fortunes.</p>
@@ -20,7 +20,7 @@ comments: false
 
 <center>
     <b>Fediverse Links:</b>
-    <br> <a href="https://writing.exchange/@actionsnacks">Mastadon</a>  |  <a href="https://lemmy.ml/u/lastnamefirst">Lemmy</a>  |  <a href="https://pixelfed.social/actionsnacks">Pixelfed</a>
+    <br> <a href="https://writing.exchange/@actionsnacks">Mastodon</a>  |  <a href="https://lemmy.ml/u/lastnamefirst">Lemmy</a>  |  <a href="https://pixelfed.social/actionsnacks">Pixelfed</a>
     <br> <a href="https://snap.as/actionsnacks">Snap.as</a>  |  <a href="https://bookwyrm.social/user/actionsnacks">Bookwyrm</a>  |  <a href="https://libre.fm/user/actionsnacks">Libre.fm</a>
     <br> <a href="https://tilvids.com/accounts/lastnamefirst">PeerTube</a>  |  <a href="https://open.audio/@actionsnacks">Funkwhale</a>
 </center>
