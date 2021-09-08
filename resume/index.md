@@ -13,7 +13,7 @@ Experienced IT Operations Engineer with an over ten-year history in the tech spa
 
 ## Experience
 
-### <span>Corporate Operations Engineer, Google</span> <span>(12/2016 - Present)</span>
+### <span>Corporate Operations Engineer, Google</span> <span>(12/2016 - 08/2021)</span>
 
 * Support Team subject matter expert and global escalation point for Linux and Accessibility-related issues.
 * Created and maintained globally utilized tools.
