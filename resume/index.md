@@ -8,8 +8,8 @@ comments: false
 
 Experienced IT Operations Engineer with an over ten-year history in the tech space. Expansive background in Linux, Accessibility, Remote Solutions, Program Management, Customer Support/Experience, Training Creation/Facilitation, and Mentorship. 
 
-* Gainesville, FL
-* rob@actionsnacks.net
+* Gainesville, FL | United States
+* spence@rcspence.com
 
 ## Experience
 
