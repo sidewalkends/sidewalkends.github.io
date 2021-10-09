@@ -52,14 +52,14 @@ medium:            '@actionsnacks'
 #foursquare:        username
 #steam:             sidewalkends
 #dribbble:          username
-#youtube:           sidewalkends
+#youtube:           username
 youtube-channel:    UC52HejZmGRiKPimU6rEF77A
 soundcloud:         tenocycle
 #weibo:             username
 #flickr:            username
 #codepen:           username
 #keybase:           username
-#xmpp:              username@server.com
+xmpp:               actionsnacks@404.city
 #hackernews:        username
 
 # Gems
