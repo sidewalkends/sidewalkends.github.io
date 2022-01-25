@@ -26,8 +26,10 @@ comments: false
 </center>
 
 <center>
-    <p><b>Donations:</b>
-    <br> <b>Bitcoin (BTC):</b> bc1qnkguvmwuv556naae0t70sfz4sl0t9asng6nu4v
-    <br> <b>Litecoin (LTC):</b> ltc1qkncaahkzc3d0hgk9wcr0nnm2tv8n4px3papj04
-    <br> <b>Monero (XMR):</b> 47YvmJxrcE3QTTxyBAMqzNZD2eL1h9qrrapztb117Kiy7BvRUMCc5Be7ErRk2oJfYUVxcTEBDzxCMHBYdEDqQtNkGYPRxza</p>
+    <p><b>Bitcoin (BTC):</b> 
+    <br> bc1qnkguvmwuv556naae0t70sfz4sl0t9asng6nu4v </p>
+    <p><b> Litecoin (LTC):</b>
+    <br> ltc1qkncaahkzc3d0hgk9wcr0nnm2tv8n4px3papj04 </p>
+    <p><b> Monero (XMR):</b> 
+    <br> 47YvmJxrcE3QTTxyBAMqzNZD2eL1h9qrrapztb117Kiy7BvRUMCc5Be7ErRk2oJfYUVxcTEBDzxCMHBYdEDqQtNkGYPRxza </p>
 </center>
