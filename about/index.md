@@ -19,8 +19,15 @@ comments: false
 </center>
 
 <center>
-    <b>Fediverse Links:</b>
+    <p><b>Fediverse Links:</b>
     <br> <a href="https://writing.exchange/@actionsnacks">Mastodon</a>  |  <a href="https://lemmy.ml/u/lastnamefirst">Lemmy</a>  |  <a href="https://pixelfed.social/actionsnacks">Pixelfed</a>
     <br> <a href="https://snap.as/actionsnacks">Snap.as</a>  |  <a href="https://bookwyrm.social/user/actionsnacks">Bookwyrm</a>  |  <a href="https://libre.fm/user/actionsnacks">Libre.fm</a>
-    <br> <a href="https://tilvids.com/accounts/lastnamefirst">PeerTube</a>  |  <a href="https://open.audio/@actionsnacks">Funkwhale</a>
+    <br> <a href="https://tilvids.com/accounts/lastnamefirst">PeerTube</a>  |  <a href="https://open.audio/@actionsnacks">Funkwhale</a></p>
+</center>
+
+<center>
+    <p><b>Donations:</b>
+    <br> <b>Bitcoin (BTC):</b> bc1qnkguvmwuv556naae0t70sfz4sl0t9asng6nu4v
+    <br> <b>Litecoin (LTC):</b> ltc1qkncaahkzc3d0hgk9wcr0nnm2tv8n4px3papj04
+    <br> <b>Monero (XMR):</b> 47YvmJxrcE3QTTxyBAMqzNZD2eL1h9qrrapztb117Kiy7BvRUMCc5Be7ErRk2oJfYUVxcTEBDzxCMHBYdEDqQtNkGYPRxza</p>
 </center>
