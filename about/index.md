@@ -10,7 +10,7 @@ comments: false
     <center><a href="/assets/img/about-me4.jpg"><img src="/assets/img/about-me4.jpg"></a></center>
 </figure>
 
-<center><p>Spence is currently based in Gainesville, FL, where he works remotely as a Support Engineer and writes sometimes.</p> 
+<center><p>Spence is currently based in Gainesville, FL, where he works remotely as an Operations Engineer and writes sometimes.</p> 
 
 <p>He is a lover of adventure, language, books, records, podcasts, stationery, psychology, horology, cozy spaces, thomassons, travel, playing music, board games, burritos, and baked goods.</p>
 
@@ -26,10 +26,14 @@ comments: false
 </center>
 
 <center>
-    <p><b>Bitcoin (BTC):</b> 
-    <br> bc1qnkguvmwuv556naae0t70sfz4sl0t9asng6nu4v </p>
-    <p><b> Litecoin (LTC):</b>
-    <br> ltc1qkncaahkzc3d0hgk9wcr0nnm2tv8n4px3papj04 </p>
-    <p><b> Monero (XMR):</b> 
-    <br> 47YvmJxrcE3QTTxyBAMqzNZD2eL1h9qrrapztb117Kiy7BvRUMCc5Be7ErRk2oJfYUVxcTEBDzxCMHBYdEDqQtNkGYPRxza </p>
+    <p><b> Bitcoin (BTC): </b> 
+        <br> bc1qnkguvmwuv556naae0t70sfz4sl0t9asng6nu4v </p>
+    <p><b> Ethereum (ETH): </b>
+        <br> 0x69127B535aBd186c163E1C1dF7D4a91FAcCf3834 </p>
+    <p><b> Litecoin (LTC): </b>
+        <br> ltc1qkncaahkzc3d0hgk9wcr0nnm2tv8n4px3papj04 </p>
+    <p><b> Monero (XMR): </b> 
+        <br> 47YvmJxrcE3QTTxyBAMqzNZD2eL1h9qrrapztb117Kiy7BvRUMCc5Be7ErRk2oJfYUVxcTEBDzxCMHBYdEDqQtNkGYPRxza </p>
+    <p><b> Dogecoin (DOGE): </b>
+        <br> DJqsQcX6zHXiQe1SZikmrJYZhDdguUXTRB </p>
 </center>
