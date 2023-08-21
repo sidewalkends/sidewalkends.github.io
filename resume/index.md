@@ -14,14 +14,15 @@ Experienced Operations Engineer with an over eleven-year history in the Tech spa
 ## Experience
 
 ### <span>Senior Operations Engineer, Robinhood</span> <span>(05/2021 - PRESENT)</span>
+
 * Employee Experience Lead
 * CorpEng Communications and Documentation Lead
 * Developed cross-team persona models for org-wide initiatives.
 * Co-led successful rollout of company-wide AI support bot and developed knowledge ingestion policy/procedure.
-* Developed and led multiple company-wide User Acceptance Testing initiatives. 
-
+* Developed and led multiple company-wide User Acceptance Testing initiatives.
 
 ### <span>Technical Support Engineer, Red Canary</span> <span>(08/2021 - 05/2022)</span>
+
 * Trusted partner on product functionality for customers and third-party vendors.
 * Created Product Support and Known Issue documentation.
 * Liaised with internal and external partner teams.
