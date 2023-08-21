@@ -2,18 +2,24 @@
 layout: page
 title: Rob Spence | Resume
 tags: [actionsnacks]
-date: 2021-05-20
+date: 2023-08-21
 comments: false
 ---
 
-Experienced Operations Engineer with an over eleven-year history in the Tech space. Expansive background in Linux, Accessibility, Project Management, Customer Support, Training Creation/Facilitation, and Mentorship. 
+Experienced Operations Engineer with an over eleven-year history in the Tech space. Expansive background in Linux, Accessibility, Communications, Training Creation/Facilitation, Mentorship, Project Management, and User Support.
 
-* Gainesville, FL
+* Chicago, IL, United States
 * spence@rcspence.com
 
 ## Experience
 
 ### <span>Senior Operations Engineer, Robinhood</span> <span>(05/2021 - PRESENT)</span>
+* Employee Experience Lead
+* CorpEng Communications and Documentation Lead
+* Developed cross-team persona models for org-wide initiatives.
+* Co-led successful rollout of company-wide AI support bot and developed knowledge ingestion policy/procedure.
+* Developed and led multiple company-wide User Acceptance Testing initiatives. 
+
 
 ### <span>Technical Support Engineer, Red Canary</span> <span>(08/2021 - 05/2022)</span>
 * Trusted partner on product functionality for customers and third-party vendors.
@@ -23,12 +29,14 @@ Experienced Operations Engineer with an over eleven-year history in the Tech spa
 ### <span>Corporate Operations Engineer, Google</span> <span>(12/2016 - 08/2021)</span>
 
 * Support Team subject matter expert and global escalation point for Linux and Accessibility-related issues.
+* Created, led, and facilitated a week-long global cross-team Linux training curriculum for internal support residents. Trained additional facilitators to ensure instructor coverage and availability.
 * Developed and maintained globally utilized Linux support tools, training, and documentation.
 * Developed and deployed Linux support and Accessibility improvements.
 * Developed and led multiple global internal Linux Platform and Linux Professional Institute Certification (LPIC) training curriculums.
 * Led formation of a support escalation and advocacy team for Accessibility.
-* Mentored and Trained new teammates.
+* Mentored and trained new teammates.
 * Advocated for and led global morale and well-being improvement projects and initiatives.
+
 
 ### <span>Corporate Engineering Support Technician, Google</span> <span>(01/2015 - 12/2016)</span>
 
@@ -48,9 +56,9 @@ Experienced Operations Engineer with an over eleven-year history in the Tech spa
 
 ## Skills
 
-**OS:** Linux, MacOS, Windows, ChromeOS, iOS, Android/Android-Based
+**OS:** Debian and RHEL-Based Linux Distributions, MacOS, Windows, ChromeOS, iOS/Android-Based Mobile Operating Systems
 
-**Additional Skills and Experience:** Shell Scripting, Python Scripting, Containers, Assistive Technologies, Project Management, Google Cloud Platform, EDR/MDR Products, Libre/OnlyOffice Suites, Network Support, Active Directory, Learning & Development
+**Additional Skills and Experience:** Shell Scripting, Containers, Assistive Technologies, Content Writing, Communications, Project Management, Google Cloud Platform, EDR/MDR Products, Network Support, Active Directory, Learning & Development
 
 ## Education
 
