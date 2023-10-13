@@ -13,7 +13,7 @@ Experienced Operations Engineer with an over eleven-year history in the Tech spa
 
 ## Experience
 
-### <span>Senior Operations Engineer, Robinhood</span> <span>(05/2021 - PRESENT)</span>
+### <span>Senior Operations Engineer, Robinhood</span> <span>(05/2021 - 09/2023)</span>
 
 * Employee Experience Lead
 * CorpEng Communications and Documentation Lead
@@ -34,9 +34,10 @@ Experienced Operations Engineer with an over eleven-year history in the Tech spa
 * Developed and maintained globally utilized Linux support tools, training, and documentation.
 * Developed and deployed Linux support and Accessibility improvements.
 * Developed and led multiple global internal Linux Platform and Linux Professional Institute Certification (LPIC) training curriculums.
-* Led formation of a support escalation and advocacy team for Accessibility.
-* Mentored and trained new teammates.
-* Advocated for and led global morale and well-being improvement projects and initiatives.
+* Led formation of a support escalation and advocacy team for Accessibility, driving creation of a dedicated Accessibility Support role.
+* Created, organized, and led the first ever global platform support service team summit.
+* Led and advocated for global morale, psychological safety, and well-being improvement projects and initiatives.
+* Trained and mentored new CorpEng Internal Support teammates.
 
 
 ### <span>Corporate Engineering Support Technician, Google</span> <span>(01/2015 - 12/2016)</span>
@@ -54,12 +55,19 @@ Experienced Operations Engineer with an over eleven-year history in the Tech spa
 * Liaised with hardware and software companies for additional troubleshooting, repairs, and exchanges.
 * Assisted with college-wide migration from Windows XP to Windows 7.
 
+### <span>BPO Analyst, Classic Properties</span> <span>(07/2006 - 07/2007)</span>
+
+* Property Condition Assessment
+* Property Comparison
+* Data Entry
+
 
 ## Skills
 
 **OS:** Debian and RHEL-Based Linux Distributions, MacOS, Windows, ChromeOS, iOS/Android-Based Mobile Operating Systems
 
-**Additional Skills and Experience:** Shell Scripting, Containers, Assistive Technologies, Content Writing, Communications, Project Management, Google Cloud Platform, EDR/MDR Products, Network Support, Active Directory, Learning & Development
+**Additional Skills and Experience:** Shell Scripting, Assistive Technologies, Content/Tech Writing, Communications, Learning & Development, Instructional Design, Agile Methodology, Project Management, EDR/MDR, Network Support, Active Directory, Containers
+
 
 ## Education
 
@@ -71,3 +79,19 @@ Experienced Operations Engineer with an over eleven-year history in the Tech spa
 
 #### <span>Broward College</span> <span>(2004 - 2007)</span>
 * AA General Studies & Humanities
+
+
+## Volunteering
+
+#### <span>826CHI</span> <span>(2023 - PRESENT)</span>
+* Volunteer
+
+#### <span>Wayeard Council</span> <span>(2008 - 2012)</span>
+* Storefront Volunteer
+* Event Organizer / Promoter
+* IT / Web Designer
+
+
+## Hobbies
+
+Writing (Fiction, Poetry), Stationery, Bullet Journaling, Horology/Watches, Reading, Playing Ukulele, Zine Making, Self-Hosting, Fortune Cookie Fortune Collecting
