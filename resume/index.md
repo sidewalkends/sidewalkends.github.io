@@ -87,7 +87,7 @@ Over thirteen years experience in the Tech space with an expansive background in
 #### <span>826CHI</span> <span>(2023 - PRESENT)</span>
 * Volunteer
 
-#### <span>Wayeard Council</span> <span>(2008 - 2012)</span>
+#### <span>Wayward Council</span> <span>(2008 - 2012)</span>
 * Storefront Volunteer
 * Event Organizer / Promoter
 * IT / Web Designer
