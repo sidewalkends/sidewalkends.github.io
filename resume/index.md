@@ -2,14 +2,15 @@
 layout: page
 title: Rob Spence | Resume
 tags: [actionsnacks]
-date: 2023-08-21
+date: 2023-10-13
 comments: false
 ---
 
-Experienced Operations Engineer with an over eleven-year history in the Tech space. Expansive background in Linux, Accessibility, Communications, Training Creation/Facilitation, Mentorship, Project Management, and User Support.
+Over thirteen years experience in the Tech space with an expansive background in Linux, Accessibility/Assistive Technologies, Communications, User Support/Experience, Learning & Development, Technical Writing, Mentorship, Event Organization/Promotion, and Mental Health Advocacy.
 
 * Chicago, IL, United States
 * spence@rcspence.com
+* linkedin.com/in/spencerobert
 
 ## Experience
 
