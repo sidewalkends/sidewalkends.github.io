@@ -10,9 +10,9 @@ comments: false
     <center><a href="/assets/img/about-me4.jpg"><img src="/assets/img/about-me4.jpg"></a></center>
 </figure>
 
-<center><p>Spence is currently based in Chicago, IL, where he works remotely as Senior Operations Engineer and writes sometimes.</p> 
+<center><p>Spence is currently based in Chicago, IL, where he works remotely in Tech/Engineering and writes sometimes.</p> 
 
-<p>He is a lover of adventure, language, books, records, podcasts, stationery, psychology, horology, cozy spaces, thomassons, travel, playing music, board games, burritos, and baked goods.</p>
+<p>He is a lover of adventure, language, books, records, stationery, psychology, horology/watches, cozy spaces, thomassons, travel, playing music, board games, burritos, and baked goods.</p>
 
 <p>ENFJ-T. Pisces. Team Jess. Still quite fascinated by dinosaurs, nature, and space.
 <br>Decade-long collector of fortune cookie fortunes.</p>
