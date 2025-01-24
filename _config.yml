@@ -38,28 +38,28 @@ disqus_shortname:   actionsnacks
   #ad-slot:
 #bing-verify:
 #email:             'actionsnacks@mailcat.8shield.net' 
-#twitter:            actionsnaction
+#twitter:           username
 #facebook:          username
-#github-url:        sidewalkends
+#github-url:        username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:           spencerobert
+#linkedin:          username
 #xing:              username
-#instagram:          todayscookie
-#lastfm:             skakagrall
+#instagram:         username
+#lastfm:            skakagrall
 #tumblr:            username
-#medium:            '@actionsnacks'
+#medium:            username
 #pinterest:         username
 #foursquare:        username
 #steam:             sidewalkends
 #dribbble:          username
 #youtube:           username
-#youtube-channel:    UC52HejZmGRiKPimU6rEF77A
-#soundcloud:         tenocycle
+#youtube-channel:   username
+#soundcloud:        tenocycle
 #weibo:             username
 #flickr:            username
 #codepen:           username
 #keybase:           username
-#xmpp:               actionsnacks@404.city
+#xmpp:              username
 #hackernews:        username
 
 # Gems
