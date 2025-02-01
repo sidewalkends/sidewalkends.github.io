@@ -5,7 +5,7 @@ tags: [actionsnacks]
 date: 2025-02-01
 comments: false
 ---
-<p>As of January 2025, action{snacks}; has moved entirely onto federated Social Media platforms and services. 
+<p>As of January 2025, action{snacks}; has moved entirely onto federated social media platforms and services. 
     You can find him and friend him on the ones linked below.</p>
 
 * <a href="https://writing.exchange/@actionsnacks">Mastodon</a>
