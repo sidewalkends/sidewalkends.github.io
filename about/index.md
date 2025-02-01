@@ -2,7 +2,7 @@
 layout: page
 title: action{snacks};
 tags: [actionsnacks]
-date: 2020-05-20
+date: 2025-02-01
 comments: false
 ---
 
@@ -11,8 +11,10 @@ comments: false
 </figure>
 
 <center>
-<p>Lover of adventure, books/zines, stationery, horology/watches, journaling, cozy spaces, thomassons, travel, playing music, language, board games, burritos, and baked goods.</p>
+<p>Engineer, proud cat dad, old punk, and (sometimes) writer.</p>
+    
+<p>Lover of books/zines, stationery/journaling, fountain pens, watches/horology, cozy spaces, thomassons, travel, playing music, language, crpgs, board games, burritos, and baked goods.</p>
 
-<p>ENFJ-T. Pisces. Team Jess. Still quite fascinated by dinosaurs, nature, and space.
-<br>Decade-long collector of fortune cookie fortunes.</p>
+<p>He/Him. Pisces. Team Jess. Still quite fascinated by dinosaurs, nature, and space.
+<br>Decade-long collector of the finest fortune cookie fortunes.</p>
 </center>
