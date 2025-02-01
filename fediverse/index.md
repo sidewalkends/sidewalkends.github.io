@@ -1,6 +1,6 @@
 ---
 layout: page
-title: action{snacks}; | In the Fediverse
+title: action{snacks}; | in the Fediverse
 tags: [actionsnacks]
 date: 2025-02-01
 comments: false
