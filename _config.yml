@@ -54,12 +54,12 @@ disqus_shortname:   actionsnacks
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   username
-#soundcloud:        tenocycle
+soundcloud:        tenocycle
 #weibo:             username
 #flickr:            username
 #codepen:           username
 #keybase:           username
-#xmpp:              username
+xmpp:              username
 #hackernews:        username
 
 # Gems
