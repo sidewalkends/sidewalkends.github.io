@@ -1,10 +1,13 @@
 ---
 layout: page
-title: action{snacks}; | Fediverse
+title: action{snacks}; | In the Fediverse
 tags: [actionsnacks]
 date: 2025-02-01
 comments: false
 ---
+<p>As of January 2025, action{snacks}; has moved entirely onto federated Social Media platforms and services. 
+    You can find him and friend him on the ones linked below.</p>
+
 * <a href="https://writing.exchange/@actionsnacks">Mastodon</a>
 * <a href="https://pixelfed.social/actionsnaps">Pixlfed</a>
 * <a href="https://bookwyrm.social/user/actionsnacks">BookWyrm</a>
