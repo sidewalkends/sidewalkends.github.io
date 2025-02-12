@@ -18,3 +18,7 @@ comments: false
 <p><b>SNACKS!? - Vol. 01: There Will Be...</b>
 <br>A limited run collection of Gainesville show fliers by {spence}; spanning 2009-2012.
 <br>Now out of print.</p>
+
+<p><b>Katya Kat: Private Detective - 01:02</b>
+<br>The first case in renowned private detective Katya Kat's crime solving adventures in the city of Whiskershire... with the help of her new assistant, Spence Robson. Part 2 of 3.
+<br>Available at the action{snacks); Shop or at Quimby's in Chicago, IL.</p>
