@@ -11,6 +11,6 @@ comments: false
 <br>Kindle and Paperback formats available on <a href="https://www.amazon.com/Welcome-Adulthood-Captain-Collected-Writings/dp/B084FHKXX1">Amazon</a>.
 <br>Creation story on <a href="https://blog.actionsnacks.net/well-welcome-to-adulthood-captain">action{snacks}; Blog</a>.</p>
 
-<p><b>Katya Kat: Private Detective - 01:01</b></p>
+<p><b>Katya Kat: Private Detective - 01:01</b>
 <br>The first case in renowned private detective Katya Kat's crime solving adventures in the city of Whiskershire... with the help of her new assistant, Spence Robson. Part 1 of 3.
-<br>Available at the action{snacks); Shop or at Quimby's in Chicago, IL.
+<br>Available at the action{snacks); Shop or at Quimby's in Chicago, IL.</p>
