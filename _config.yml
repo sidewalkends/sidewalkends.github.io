@@ -45,21 +45,21 @@ disqus_shortname:   actionsnacks
 #linkedin:          username
 #xing:              username
 #instagram:         username
-#lastfm:            skakagrall
+lastfm:            skakagrall
 #tumblr:            username
 #medium:            username
 #pinterest:         username
 #foursquare:        username
-#steam:             sidewalkends
+steam:             sidewalkends
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   username
-#soundcloud:        tenocycle
+soundcloud:        tenocycle
 #weibo:             username
 #flickr:            username
 #codepen:           username
 #keybase:           username
-#xmpp:              username
+xmpp:              username
 #hackernews:        username
 
 # Gems
