@@ -23,7 +23,7 @@ comments: false
 <p><b>Katya Kat: Private Detective - 01:02</b>
 <br>The first case in renowned private detective Katya Kat's crime solving adventures in the city of Whiskershire... with the help of her new assistant, Spence Robson. Part 2 of 3.
 <br>Available at the action{snacks); Shop or at Quimby's in Chicago, IL.</p>
-
+<br>
 
 <h2>Additional Works & Contributions</h2>
 <p><b>Starshine - 2020 - HITRECORD</b>
