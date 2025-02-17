@@ -23,7 +23,7 @@ comments: false
 <p><b>Katya Kat: Private Detective - 01:02</b>
 <br>The first case in renowned private detective Katya Kat's crime solving adventures in the city of Whiskershire... with the help of her new assistant, Spence Robson. Part 2 of 3.
 <br>Available at the action{snacks); Shop or at Quimby's in Chicago, IL.</p>
-<br>
+
 
 <h2>Additional Works & Contributions</h2>
 <p><b>Starshine - 2020 - HITRECORD</b>
@@ -45,9 +45,9 @@ comments: false
 <p><b>New York 2017 - 2017</b>
 <br>(Currently) Unpublished Poem
 <br>View on <a href="https://blog.actionsnacks.net/well-welcome-to-adulthood-captain">action{snacks}; Blog</a></p>
-<br>
 
-<h2>Additional Works & Contributions</h2>
+
+<h2>Music Releases & Contributions</h2>
 <p><b>Cootie Shot - OO..</b>
 <br>2012 - Retrospective collection of Cootie Shot recordings. Contributed Ukulele, Glockenspiel, and Backing Vocals.
 <br>Available for Purchase/Download on <a href="https://cootieshot.bandcamp.com/album/oo">Bandcamp</a>.</p>
