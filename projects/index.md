@@ -49,24 +49,29 @@ comments: false
 
 <h2>Music Releases & Contributions</h2>
 <p><b>Cootie Shot - OO..</b>
-<br>2012 - Retrospective collection of Cootie Shot recordings. Contributed Ukulele, Glockenspiel, and Backing Vocals.
+<br>2012 - Retrospective collection of Cootie Shot recordings. 
+<br>Contributed Ukulele, Glockenspiel, and Backing Vocals.
 <br>Available for Purchase/Download on <a href="https://cootieshot.bandcamp.com/album/oo">Bandcamp</a>.</p>
 
 <p><b>ten-o-cycle - Favorite Boy in Blue CDS</b>
-<br>2011 - Self-recorded contribution to the soundtrack of  Max Landis' <a href="https://youtu.be/0PlwDbSYicM?si=6g-ToK4HTVzz1O7g">Death and Return of Superman</a> YouTube short. Ukulele and Vocals.
+<br>2011 - Self-recorded contribution to the soundtrack of  Max Landis' <a href="https://youtu.be/0PlwDbSYicM?si=6g-ToK4HTVzz1O7g">Death and Return of Superman</a> YouTube short. 
+<br>Ukulele and Vocals.
 <br>Title Track: <a href="https://youtu.be/7vpqD1-etEg?si=tU8oXAmctRBNd3Ob">YouTube</a> | <a href="https://soundcloud.com/tenocycle/favorite-boy-in-blue">Soundcloud</a>
 <br>Instrumental Version: <a href="https://soundcloud.com/tenocycle/favorite-boy-in-blue-instrumental">Soundcloud</a></p>
 
 <p><b>ten-o-cycle - Flanny's Got His Flanagan Out EP</b>
-<br>2009 - Self-recorded going-away gift for a wonderful friend. Ukulele and Vocals.
+<br>2009 - Self-recorded going-away gift for a wonderful friend. 
+<br>Ukulele and Vocals.
 <br>Stream Track 04, "A Flanafriendship" on <a href="https://soundcloud.com/tenocycle/a-flanafriendship">Soundcloud</a></p>
 
 <p><b>ten-o-cycle - ... is Ruining Your Music EP</b>
-<br>2008 - Self-recorded cover songs recorded while sick and stuffy. Ukulele and Vocals.
+<br>2008 - Self-recorded cover songs recorded while sick and stuffy. 
+<br>Ukulele and Vocals.
 <br>All tracks lost and never to be found.</p>
 
 <p><b>ten-o-cycle - The Last Anniversary EP</b>
-<br>2017 - Self-recorded solo project. Ukulele and Vocals.
+<br>2017 - Self-recorded solo project. 
+<br>Ukulele and Vocals.
 <br>Partially Available for Purchase/Download on <a href="https://tenocycle.bandcamp.com/album/the-last-anniversary">Bandcamp</a>.</p>
 
 <p><b>Velma and the Happy Campers - Wilford Brimley</b>
