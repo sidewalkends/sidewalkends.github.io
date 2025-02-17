@@ -50,7 +50,7 @@ comments: false
 <h2>Music Releases & Contributions</h2>
 <p><b>Cootie Shot - OO..</b>
 <br>2012 - Retrospective collection of Cootie Shot recordings. 
-<br>Contributed Ukulele, Glockenspiel, and Backing Vocals.
+<br>Ukulele, Glockenspiel, and Backing Vocals.
 <br>Available for Purchase/Download on <a href="https://cootieshot.bandcamp.com/album/oo">Bandcamp</a>.</p>
 
 <p><b>ten-o-cycle - Favorite Boy in Blue CDS</b>
