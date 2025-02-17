@@ -27,20 +27,20 @@ comments: false
 <h3>Additional Works & Contributions</h3>
 <p><b>Starshine - 2020 - HITRECORD</b>
 <br>Contribution to the Rentals' “Stranded, Out in the Cosmos...” project.
-<br>View on HITRECORD  |  View on action{snacks}; Blog</p>
+<br>View on <a href="https://hitrecord.org/projects/4436089">HITRECORD</a>  |  View on <a href="https://blog.actionsnacks.net/well-welcome-to-adulthood-captain">action{snacks}; Blog</a></p>
 
 <p><b>The Stranger and the Thunderbird - 2020 - HITRECORD</b>
 <br>Contribution to Michael Madsen's “Whiskey River Short Film” project.
-<br>View on HITRECORD  |  View on action{snacks}; Blog</p>
+<br>View on <a href="https://hitrecord.org/projects/4436089">HITRECORD</a>  |  View on <a href="https://blog.actionsnacks.net/well-welcome-to-adulthood-captain">action{snacks}; Blog</a></p>
 
 <p><b>Life Lesson #137 - 2021 - NYC Midnight</b>
 <br>Microfiction Competition Entry
-<br>View on action{snacks}; Blog</p>
+<br>View on <a href="https://blog.actionsnacks.net/well-welcome-to-adulthood-captain">action{snacks}; Blog</a></p>
 
 <p><b>Dark Empire: Prologue (Revisited) - 1996/2021</b>
 <br>Revised prologue to a handwritten fantasy novel I wrote in elementary school.
-<br>View on action{snacks}; Blog</p>
+<br>View on <a href="https://blog.actionsnacks.net/well-welcome-to-adulthood-captain">action{snacks}; Blog</a></p>
 
 <p><b>New York 2017 - 2017</b>
 <br>(Currently) Unpublished Poem
-<br>View on action{snacks}; Blog</p>
+<br>View on <a href="https://blog.actionsnacks.net/well-welcome-to-adulthood-captain">action{snacks}; Blog</a></p>
