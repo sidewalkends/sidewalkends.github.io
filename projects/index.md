@@ -6,6 +6,7 @@ date: 2025-02-12
 comments: false
 ---
 
+##Self-Published Works##
 <p><b>Welcome to Adulthood, Captain!</b>
 <br>A strange boy's journey into adulthood chronicled through a collection of writings, fun and serious, from 1992 through 2004.
 <br>Kindle and Paperback formats available on <a href="https://www.amazon.com/Welcome-Adulthood-Captain-Collected-Writings/dp/B084FHKXX1">Amazon</a>.
