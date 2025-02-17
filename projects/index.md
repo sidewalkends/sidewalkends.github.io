@@ -6,7 +6,7 @@ date: 2025-02-12
 comments: false
 ---
 
-<h3>Self-Published Works</h3>
+<h2>Self-Published Works</h2>
 <p><b>Welcome to Adulthood, Captain!</b>
 <br>A strange boy's journey into adulthood chronicled through a collection of writings, fun and serious, from 1992 through 2004.
 <br>Kindle and Paperback formats available on <a href="https://www.amazon.com/Welcome-Adulthood-Captain-Collected-Writings/dp/B084FHKXX1">Amazon</a>.
@@ -24,7 +24,8 @@ comments: false
 <br>The first case in renowned private detective Katya Kat's crime solving adventures in the city of Whiskershire... with the help of her new assistant, Spence Robson. Part 2 of 3.
 <br>Available at the action{snacks); Shop or at Quimby's in Chicago, IL.</p>
 
-<h3>Additional Works & Contributions</h3>
+
+<h2>Additional Works & Contributions</h2>
 <p><b>Starshine - 2020 - HITRECORD</b>
 <br>Contribution to the Rentals' “Stranded, Out in the Cosmos...” project.
 <br>View on <a href="https://hitrecord.org/projects/4436089">HITRECORD</a>  |  View on <a href="https://blog.actionsnacks.net/well-welcome-to-adulthood-captain">action{snacks}; Blog</a></p>
