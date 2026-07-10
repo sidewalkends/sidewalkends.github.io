@@ -1,6 +1,6 @@
 # Site navigation links
 - title: Blog
-  url: https://blog.actionsnacks.net/
+  url: /blog/
 - title: Fediverse
   url: /fediverse/
 - title: Projects
