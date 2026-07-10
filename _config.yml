@@ -37,7 +37,7 @@ disqus_shortname:   actionsnacks
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:             'actionsnacks@mailcat.8shield.net' 
+#email:             username 
 #twitter:           username
 #facebook:          username
 #github-url:        username
@@ -45,21 +45,21 @@ disqus_shortname:   actionsnacks
 #linkedin:          username
 #xing:              username
 #instagram:         username
-lastfm:            skakagrall
+#lastfm:            username
 #tumblr:            username
 #medium:            username
 #pinterest:         username
 #foursquare:        username
-#steam:             actionsnacks
+#steam:             username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   username
-soundcloud:        tenocycle
+#soundcloud:        username
 #weibo:             username
 #flickr:            username
 #codepen:           username
 #keybase:           username
-xmpp:              actionsnacks@yax.im
+#xmpp:              username
 #hackernews:        username
 
 # Gems
